@@ -32,9 +32,9 @@
         "prettier-plugin-tailwindcss": "^0.6.11",
         "pusher-js": "^8.4.0",
         "typescript": "^5.2.2",
-        "typescript-eslint": "^8.23.0",
+        "typescript-eslint": "^8.73.0",
         "vite": "^8.0.16",
-        "vue-tsc": "^2.2.4"
+        "vue-tsc": "^3.3.14"
     },
     "dependencies": {
         "@atlaskit/pragmatic-drag-and-drop": "^4.0.0",
